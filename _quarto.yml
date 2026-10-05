@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "fonts/*"
+    - "images/*"
+
+website:
+  title: "Scintelle Studio"
+  description: "Clean, well-made websites for researchers, research groups and projects. One fixed price, free hosting, easy to update."
+  site-url: "https://scintellestudio.com"
+  favicon: images/favicon.svg
+  open-graph: true
+  search: false
+
+format:
+  html:
+    theme: none
+    css: styles.css
+    page-layout: custom
+    include-before-body: _header.html
+    include-after-body: _footer.html
+    toc: false
+    lang: en

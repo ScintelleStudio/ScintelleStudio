@@ -1,0 +1,172 @@
+---
+pagetitle: "Web design for academia"
+---
+
+```{=html}
+<span id="top"></span>
+
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <h1>Show and tell for your research.</h1>
+      <p class="lede">Clean, well-made websites for researchers, research groups and projects. One fixed price, free hosting, and updates anyone on your team can make.</p>
+      <div class="actions">
+        <!-- CHANGE: your real email address, here and in the Contact section -->
+        <a class="btn btn-primary" href="mailto:hello@scintellestudio.com?subject=Intro%20call">Book an intro call</a>
+        <a class="btn btn-quiet" href="#pricing">See pricing</a>
+      </div>
+    </div>
+    <svg class="cluster" viewBox="0 0 64 64" aria-hidden="true">
+      <path d="M30 4 L32 28 L56 30 L32 32 L30 56 L28 32 L4 30 L28 28 Z" fill="#9B1B30"/>
+      <path d="M53 4 L54 11 L61 12 L54 13 L53 20 L52 13 L45 12 L52 11 Z" fill="#9B1B30"/>
+      <circle cx="12" cy="52" r="3" fill="#D9B8BE"/>
+    </svg>
+  </div>
+</section>
+
+<section id="why" class="alt">
+  <div class="wrap">
+    <h2>Why have a website of your own?</h2>
+    <div class="why-grid">
+      <div>
+        <h3>Recruit</h3>
+        <p>Applicants look you up before they apply. Give them a clear picture of your group and your open positions.</p>
+      </div>
+      <div>
+        <h3>Be found</h3>
+        <p>Collaborators, journalists and funders find a current story instead of a stale profile page.</p>
+      </div>
+      <div>
+        <h3>Share openly</h3>
+        <p>Link every paper to its data, code and DOI, so your open science is visible.</p>
+      </div>
+      <div>
+        <h3>Stay current</h3>
+        <p>Updating takes minutes, so the site keeps pace with your group.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="included">
+  <div class="wrap included-grid">
+    <div class="stack">
+      <h2>What is included</h2>
+      <p class="lede">No monthly fees. If you want your own domain, it costs a few hundred kronor a year.</p>
+    </div>
+    <ul class="included-list">
+      <li><svg class="spark" aria-hidden="true"><use href="#spark"/></svg>Design adapted to your field</li>
+      <li><svg class="spark" aria-hidden="true"><use href="#spark"/></svg>Works on phones and computers</li>
+      <li><svg class="spark" aria-hidden="true"><use href="#spark"/></svg>Free hosting on GitHub Pages</li>
+      <li><svg class="spark" aria-hidden="true"><use href="#spark"/></svg>Publications from your BibTeX file</li>
+      <li><svg class="spark" aria-hidden="true"><use href="#spark"/></svg>Accessible, readable design</li>
+      <li><svg class="spark" aria-hidden="true"><use href="#spark"/></svg>Custom domain setup</li>
+      <li><svg class="spark" aria-hidden="true"><use href="#spark"/></svg>Step-by-step update guide</li>
+      <li><svg class="spark" aria-hidden="true"><use href="#spark"/></svg>One-hour handover session</li>
+    </ul>
+  </div>
+</section>
+
+<section id="how" class="alt">
+  <div class="wrap">
+    <h2>How it works</h2>
+    <ol class="process">
+      <li>
+        <span class="n">1</span>
+        <h3>Intro call</h3>
+        <p>We talk about your work and who the site is for.</p>
+      </li>
+      <li>
+        <span class="n">2</span>
+        <h3>Send your content</h3>
+        <p>You get one checklist for texts, photos and publications. I build, and you review a draft link.</p>
+      </li>
+      <li>
+        <span class="n">3</span>
+        <h3>Launch and handover</h3>
+        <p>Your site goes live and I show your team how to update it. Most sites take about two weeks.</p>
+      </li>
+    </ol>
+  </div>
+</section>
+
+<section id="pricing">
+  <div class="wrap">
+    <h2>Pricing</h2>
+    <p class="lede" style="margin-top:16px">One-time fees, no subscriptions.</p>
+    <div class="plans">
+      <div class="plan">
+        <span class="tag">&nbsp;</span>
+        <h3>Researcher</h3>
+        <div class="price">[PRICE] <small>SEK</small></div>
+        <p>A personal site for PhD students, postdocs and PIs: about, CV, publications and profile links.</p>
+      </div>
+      <div class="plan featured">
+        <span class="tag">Most chosen</span>
+        <h3>Research group</h3>
+        <div class="price">[PRICE] <small>SEK</small></div>
+        <p>Research, people, publications, news and open positions, with a handover session and update guide.</p>
+      </div>
+      <div class="plan">
+        <span class="tag">&nbsp;</span>
+        <h3>Project</h3>
+        <div class="price"><small>from</small> [PRICE] <small>SEK</small></div>
+        <p>For EU projects and research networks: partners, outputs, events and funder acknowledgements.</p>
+      </div>
+    </div>
+    <p class="fine">Prefer to email changes instead of editing files? Add a care plan for [PRICE] SEK per year.</p>
+  </div>
+</section>
+
+<section id="faq" class="alt">
+  <div class="wrap">
+    <h2>Questions</h2>
+    <div class="faq">
+      <details>
+        <summary>Can a grant pay for this?</summary>
+        <p>Often, yes. A website can count as a dissemination cost, especially in EU projects. Your grant administrator can confirm for your funder.</p>
+      </details>
+      <details>
+        <summary>We already have a university page. Why add a site?</summary>
+        <p>A site of your own has room for your story, team, news and open positions, and it links back to your official page.</p>
+      </details>
+      <details>
+        <summary>What if nobody on our team knows GitHub?</summary>
+        <p>You get a step-by-step guide and a handover session. Most updates happen in the browser, by editing a short text file.</p>
+      </details>
+      <details>
+        <summary>Who owns the site?</summary>
+        <p>You do. It lives in your own GitHub account, so nothing is locked in and nothing breaks if we stop working together.</p>
+      </details>
+      <details>
+        <summary>Can we use our own domain?</summary>
+        <p>Yes. I set it up for you, and the domain stays registered in your name.</p>
+      </details>
+      <details>
+        <summary>Is this only for the life sciences?</summary>
+        <p>No. From biology to sociology, any field is welcome.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+<section id="about">
+  <div class="wrap about-grid">
+    <!-- CHANGE: replace the placeholder with your photo:
+         <div class="portrait"><img src="images/ineke.jpg" alt="Ineke Luijten"></div> -->
+    <div class="portrait"><svg class="spark" aria-hidden="true"><use href="#spark"/></svg></div>
+    <div class="stack">
+      <h2>Hi, I am Ineke.</h2>
+      <p class="lede">I work with open science, FAIR data and research training, and I build websites for researchers on the side. I know how research groups work, what funders expect, and how little time there is for the website.</p>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="contact">
+  <div class="wrap">
+    <h2>Starting a group or a project, or ready to replace an old site?</h2>
+    <p>Send a few lines about your work and I will reply within a few days.</p>
+    <a class="btn" href="mailto:hello@scintellestudio.com?subject=Intro%20call">hello@scintellestudio.com</a>
+  </div>
+</section>
+```
